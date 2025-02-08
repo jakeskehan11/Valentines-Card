@@ -1,11 +1,11 @@
 import React, { useState } from "react";
 
-const Dog1 = "/public/images/dog1.gif";
-const Dog2 = "/public/images/dog2.gif";
-const Dog3 = "/public/images/dog3.gif";
-const Dog4 = "/public/images/dog4.gif";
-const Dog5 = "/public/images/dog5.gif";
-const Dog6 = "/public/images/dog6.gif";
+const Dog1 = "/images/dog1.gif";
+const Dog2 = "/images/dog2.gif";
+const Dog3 = "/images/dog3.gif";
+const Dog4 = "/images/dog4.gif";
+const Dog5 = "/images/dog5.gif";
+const Dog6 = "/images/dog6.gif";
 
 const App = () => {
   const [noButtonPosition, setNoButtonPosition] = useState({ x: 0, y: 0 });
