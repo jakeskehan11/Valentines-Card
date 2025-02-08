@@ -55,7 +55,7 @@ const App = () => {
         <div className="relative">
           <img
             src={sadDogMessages[noClickCount - 1].image}
-            alt="Sad but cute cat"
+            alt="Sad but cute dog"
             className="rounded-lg mx-auto shadow-lg object-cover w-full"
           />
 
